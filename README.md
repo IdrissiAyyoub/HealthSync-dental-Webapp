@@ -21,6 +21,6 @@ Welcome to DentalHub Showcase, a web application designed to showcase dental-rel
 
 ## Demo
 
-For a quick demo, visit .
+For a quick demo, visit https://scintillating-arithmetic-9e8003.netlify.app/ .
 
 
