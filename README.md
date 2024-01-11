@@ -1,6 +1,6 @@
-# DentalHub Showcase
+# DiwaDentalHub Showcase
 
-Welcome to DentalHub Showcase, a web application designed to showcase dental-related features. This project serves as a demonstration of HTML, CSS, and Bootstrap skills in the context of dental care.
+Welcome to DiwaDentalHub Showcase, a web application designed to showcase dental-related features. This project serves as a demonstration of HTML, CSS, and Bootstrap skills in the context of dental care.
 
 ## Features
 
@@ -21,6 +21,6 @@ Welcome to DentalHub Showcase, a web application designed to showcase dental-rel
 
 ## Demo
 
-For a quick demo, visit https://scintillating-arithmetic-9e8003.netlify.app/ .
+For a quick demo, visit https://deft-fox-7276f9.netlify.app/ .
 
 
